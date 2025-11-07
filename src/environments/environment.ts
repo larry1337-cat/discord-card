@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  "discordId": "201796217292718080",
+  "discordId": "891223586868690964",
   "apiUrl": "https://camilo404.azurewebsites.net/v1/",
   "webSocketUrl": "wss://api.lanyard.rest/socket"
 };
